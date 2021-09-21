@@ -5,8 +5,8 @@
 I cleaned the data in Excel, adding extra columns with different potential profit models. 
 <img width="1100" alt="Screen Shot 2021-09-21 at 4 03 53 PM" src="https://user-images.githubusercontent.com/84096042/134239881-13ee1f48-503e-4b62-ae99-615d6bdc5739.png">
 
-A daskboard was created in Tableau with key findings.
-[Silvertone-Analytics-YouTube-Ad-Analysis.pdf](https://github.com/denacoduri/silvertone/files/7205921/Silvertone-Analytics-YouTube-Ad-Analysis.pdf)
+A dashboard was created in Tableau with key findings.
+<img width="481" alt="Silvertone-Analytics-YouTube-Ad-Analysis" src="https://user-images.githubusercontent.com/84096042/134240208-4e33ada3-2961-40a6-9cbf-badead1339d0.png">
 
 Link to the interactive Tableau dashboard:
 [Silvertone Analytics Course Ad Analysis[(https://public.tableau.com/app/profile/denacoduri/viz/SilvertoneAnalyticsCourseAdAnalysis/Story1)

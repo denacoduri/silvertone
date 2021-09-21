@@ -11,5 +11,6 @@ A dashboard was created in Tableau with key findings:
 <img width="481" alt="Silvertone-Analytics-YouTube-Ad-Analysis" src="https://user-images.githubusercontent.com/84096042/134240208-4e33ada3-2961-40a6-9cbf-badead1339d0.png">
 
 Link to the interactive Tableau dashboard:
+
 [Silvertone Analytics Course Ad Analysis](https://public.tableau.com/app/profile/denacoduri/viz/SilvertoneAnalyticsCourseAdAnalysis/Story1)
 

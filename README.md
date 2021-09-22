@@ -18,6 +18,6 @@ Link to the original LinkedIn post describing this challenge:
 
 [Tableau KPI Dashboard Challenge](https://www.linkedin.com/posts/johndavidariansen_gcanalytics-activity-6845075082360983552-0U_i/)
 
-Link to the Greensboro College livestream that critiques selected challenge submissions:
+Link to the Greensboro College Youtube video that critiques selected challenge submissions:
 
 [Lesson 4: Tableau 101 - Case Studies in Business Analytics](https://youtu.be/cxkNPZ8SEQk)

@@ -14,3 +14,10 @@ Link to the interactive Tableau dashboard:
 
 [Silvertone Analytics Course Ad Analysis](https://public.tableau.com/app/profile/denacoduri/viz/SilvertoneAnalyticsCourseAdAnalysis/Story1)
 
+Link to the original LinkedIn post describing this challenge:
+
+[Tableau KPI Dashboard Challenge](https://www.linkedin.com/posts/johndavidariansen_gcanalytics-activity-6845075082360983552-0U_i/)
+
+Link to the Greensboro College livestream:
+
+[Tableau 101](https://youtu.be/cxkNPZ8SEQk)
